@@ -3,15 +3,17 @@
 <head>
 <meta charset="UTF8">
 <style>
+  
 </style>
 <script>
 </script>
 </head>
 <body>
   <form>
-
-
-
+    <input type="text" name="nombre" required>
+    <input type="number" name="edad" required>
+    
+    <buttom onclick="funcion()"></buttom>
   </form>
 </body>
 <html>
